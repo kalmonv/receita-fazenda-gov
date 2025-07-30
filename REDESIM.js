@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         REDESIM - Analista Ambiental
+// @name         REDESIM
 // @namespace    http://tampermonkey.net/
 // @version      1
 // @description  try to take over the world!
